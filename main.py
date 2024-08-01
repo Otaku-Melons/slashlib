@@ -9,6 +9,6 @@ import Parsers.mangalib.main as main
 
 NAME = "slashlib"
 REPOS = "https://github.com/DUB1401/slashlib"
-SITE = "test-front.slashlib.me"
+SITE = "slashlib.me"
 main.NAME = NAME
 main.SITE = SITE

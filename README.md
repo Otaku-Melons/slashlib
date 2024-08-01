@@ -1,5 +1,5 @@
 # slashlib
-**slashlib** – это модуль системы управления парсерами [Melon](https://github.com/DUB1401/Melon), включающий поддержку источника: [SlashLib](https://test-front.slashlib.me/).
+**slashlib** – это модуль системы управления парсерами [Melon](https://github.com/DUB1401/Melon), включающий поддержку источника: [SlashLib](https://slashlib.me/).
 
 ## Порядок установки и использования
 Все парсеры от [@DUB1401](https://github.com/DUB1401) поставляются в Melon по умолчанию. Для повторной загрузки файлов или обновления модуля используйте встроенную команду `install`.
